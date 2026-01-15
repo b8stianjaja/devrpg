@@ -1,0 +1,18 @@
+# --- Multimedia Pesada (Evita que el repo pese GBs) ---
+audio/
+movies/
+img/
+
+# --- Archivos de Guardado y Logs ---
+save/
+*.log
+web.js
+
+# --- Archivos del Editor y Sistema ---
+backup/
+.vscode/
+node_modules/
+index.html.bak
+
+# --- Archivos de despliegue/Build ---
+www/920063
